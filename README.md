@@ -1,2 +1,2 @@
-# langren.githup.io
+# langren
 浪人的博客
